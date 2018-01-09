@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
-using Owin; 
+using Owin;
 
 namespace TestASPNETIdentity.App_Start
 {
